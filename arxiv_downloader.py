@@ -1,5 +1,4 @@
 # -*- coding=utf-8 -*-
-#! /mnt/lustre/huanggengshi/anaconda3/bin/python
 import os
 
 
