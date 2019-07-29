@@ -110,7 +110,7 @@ import time
 if __name__ == '__main__':
     import sys
     argument = sys.argv
-    target_directory = r'C:\Users\sensetime\Documents\论文集\刚下载的论文/'
+    target_directory = r'C:\Users\gengshi\Documents\论文集\刚下载的论文/'
     while True:
         try:
             number = input('请输入要下载的arxiv论文编号：')
